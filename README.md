@@ -40,3 +40,4 @@ GET /api/appointments/all (Protected)
 For protected routes, add header:
 Authorization: your_jwt_token
 
+

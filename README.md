@@ -23,7 +23,7 @@ Backend REST API built using Node.js, Express, MongoDB, JWT authentication, and 
 
 ## How to Run
 
-git clone https://github.com/YOUR_USERNAME/docker-hospital-api.git
+git clone https://github.com/Botta-Teja/docker-hospital-api.git
 cd docker-hospital-api
 docker-compose up --build
 
@@ -39,3 +39,4 @@ GET /api/appointments/all (Protected)
 
 For protected routes, add header:
 Authorization: your_jwt_token
+
